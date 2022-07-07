@@ -1,0 +1,3 @@
+https://bkshin.tistory.com/entry/OpenCV-4-%EB%8F%84%ED%98%95-%EA%B7%B8%EB%A6%AC%EA%B8%B0?category=1148027
+
+https://github.com/Dowa-Git/PythonOpenCV

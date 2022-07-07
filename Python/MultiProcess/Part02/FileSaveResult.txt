@@ -1,0 +1,2 @@
+Test_02.py Print
+length of inputed string is 18.
